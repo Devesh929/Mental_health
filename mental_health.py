@@ -20,7 +20,7 @@ st.markdown("""
 """,unsafe_allow_html=True)
 st.markdown(f"""<style>
 .css-16idsys p{{
-font-size:20px;}}
+font-size:14px;}}
 .css-uf99v8 {{
 margin-top: -100px;}}
 
