@@ -159,13 +159,13 @@ if authentication_status:
            
             image_1 = Image.open('image013.png')
 
-            st.image(image_1, width =300)
+            st.image(image_1, width =400)
         
         with col22:
             
             image_3 = Image.open('image015.png')
 
-            st.image(image_3, width =300)
+            st.image(image_3, width =400)
         
         with col33:
             
