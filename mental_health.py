@@ -3,7 +3,7 @@ from pathlib import Path
 import pandas as pd
 import numpy as np
 import pandas as pd  # pip install pandas openpyxl
-import scikit-learn
+import sklearn
 import streamlit as st  # pip install streamlit
 import streamlit_authenticator as stauth  # pip install streamlit-authenticator
 
