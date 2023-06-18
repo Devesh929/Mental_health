@@ -152,10 +152,11 @@ if authentication_status:
 
                 st.image(image_26, width =400)
         st.subheader("______________________________________________________________")
+        st.write("***People having mental health spend maximum time on Instagram")
         col11, col22,col33,col44 = st.columns(4)
-        
+         
         with col11:
-            st.write("***People having mental health spend maximum time on Instagram")
+           
             image_1 = Image.open('image013.png')
 
             st.image(image_1, width =300)
