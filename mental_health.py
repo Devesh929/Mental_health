@@ -158,13 +158,13 @@ if authentication_status:
             st.write("***People having mental health spend maximum time on Instagram")
             image_1 = Image.open('image013.png')
 
-            st.image(image_1, width =400)
+            st.image(image_1, width =300)
         
         with col22:
             
             image_3 = Image.open('image015.png')
 
-            st.image(image_3, width =400)
+            st.image(image_3, width =300)
         
         with col33:
             
